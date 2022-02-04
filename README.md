@@ -10,3 +10,9 @@ the earth like a boomerang
 
 The Free Return Trajector and The Three-Body Problem
 
+# Book:
+REAL-WORLD PYTHON
+A Hacker’s Guide to
+Solving Problems with Code
+# Autor:
+Lee Vaughan
